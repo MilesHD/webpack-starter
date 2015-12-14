@@ -1,7 +1,7 @@
 {
   "name": "next-year",
   "version": "0.0.1",
-  "description": "Keep track of those prolonged projects",
+  "description": "We prefer to think of it as more of an 'Eventually' list than a 'Todo' list",
   "main": "main.jsx",
   "scripts": {},
   "author": "Miles Dickinson",
