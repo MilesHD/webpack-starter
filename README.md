@@ -1,2 +1,2 @@
-# next-year
-We prefer to think of it more as an "Eventually" list than a "Todo" list
+# webpack-starter
+Skeleton for webpack based projects. Will create recipes of some of my favorite tech stacks.
